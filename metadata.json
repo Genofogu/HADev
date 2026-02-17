@@ -1,0 +1,5 @@
+{
+  "name": "SolarTherm AI",
+  "description": "AI-powered thermal management system for electric and hybrid vehicles, optimizing battery life and efficiency using solar energy and IoT.",
+  "requestFramePermissions": []
+}
